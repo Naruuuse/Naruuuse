@@ -1,1 +1,1 @@
-![fm3](https://user-images.githubusercontent.com/53788311/87185291-7d7ffc00-c324-11ea-82a6-4a6f81cef0a3.gif)
+<img width="1437" alt="スクリーンショット 2020-07-18 21 56 37" src="https://user-images.githubusercontent.com/53788311/87853011-bbdb7380-c941-11ea-861b-9274029a9a25.png">
