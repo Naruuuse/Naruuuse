@@ -10,7 +10,7 @@ Front-end Engineer from Japan.
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/00__/contributions.svg)](http://qiita.com/00__)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/00__/followers.svg)](http://qiita.com/00__)
 
-![Twitter Followers](https://img.shields.io/twitter/follow/00x______?label=Twitter_followers&logo=twitter&style=flat)
+[![Twitter Followers](https://img.shields.io/twitter/follow/00x______?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/00x______)
 
 
 ### Languages
