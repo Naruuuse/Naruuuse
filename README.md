@@ -21,16 +21,16 @@ Front-end Engineer from Japan.
 
 ### Technologies
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-aquamarine?&logo=Vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-aquamarine?&logo=Nuxt.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-aquamarine?&logo=Vuetify)
+![Vue.js](https://img.shields.io/badge/-Vue.js-33475B?&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-33475B?&logo=Nuxt.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-33475B?&logo=Vuetify)
 ![Flutter](https://img.shields.io/badge/-Flutter-deepskyblue?&logo=Flutter)
 
 ### Connect with me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-white?&logo=Twitter)](https://twitter.com/00x______)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-royalblue?&logo=LinkedIn)](https://www.linkedin.com/in/kazuki-naruse-8794201b2/)
-[![Qiita](https://img.shields.io/badge/-Qiita-white?&logo=Qiita)](https://qiita.com/00__)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=LinkedIn)](https://www.linkedin.com/in/kazuki-naruse-8794201b2/)
+[![Qiita](https://img.shields.io/badge/-Qiita-F6F6F4?&logo=Qiita)](https://qiita.com/00__)
 [![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF)](https://zenn.dev/00_)
 [![LAPRAS](https://img.shields.io/badge/-LAPRAS-0876BE)](https://lapras.com/public/PFICUTA)
 [![Instagram](https://img.shields.io/badge/-Instagram-white?&logo=Instagram)](https://www.instagram.com/x00_______/)
