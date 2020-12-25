@@ -2,8 +2,6 @@
 
 Front-end Engineer from Japan.
 
-![giphy](https://user-images.githubusercontent.com/53788311/103083523-f3042e00-461f-11eb-8110-e20cfcfe9779.gif)
-
 [![Naruse's github stats](https://github-readme-stats.vercel.app/api?username=Naruuuse&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naruuuse&title=Commit,PullRequest,Repositories,Issues)](https://github.com/Naruuuse "trophy")
