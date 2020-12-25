@@ -34,5 +34,3 @@ Front-end Engineer from Japan.
 [![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF)](https://zenn.dev/00_)
 [![LAPRAS](https://img.shields.io/badge/-LAPRAS-0876BE)](https://lapras.com/public/PFICUTA)
 [![Instagram](https://img.shields.io/badge/-Instagram-white?&logo=Instagram)](https://www.instagram.com/x00_______/)
-
-![Visitor Count](https://profile-counter.glitch.me/Naruuuse/count.svg)
