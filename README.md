@@ -1,6 +1,6 @@
 ## Hi there, I'm Naruse <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 
-Front-end Engineer from Japan.
+Front-end Developer from Japan.
 
 [![Naruse's github stats](https://github-readme-stats.vercel.app/api?username=Naruuuse&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
