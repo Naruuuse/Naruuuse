@@ -6,6 +6,8 @@ Front-end Developer from Japan.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naruuuse&title=Commit,PullRequest,Repositories,Issues)](https://github.com/Naruuuse "trophy")
 
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Naruuuse)
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/00__/posts.svg)](http://qiita.com/00__)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/00__/contributions.svg)](http://qiita.com/00__)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/00__/followers.svg)](http://qiita.com/00__)
