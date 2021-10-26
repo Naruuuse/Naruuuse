@@ -4,16 +4,10 @@ Front-end Developer from Japan.
 
 [![Naruse's github stats](https://github-readme-stats.vercel.app/api?username=Naruuuse&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naruuuse&" alt="Naruuuse" />
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naruuuse&title=Commit,PullRequest,Repositories,Issues)](https://github.com/Naruuuse "trophy")
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/00__/posts.svg)](http://qiita.com/00__)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/00__/contributions.svg)](http://qiita.com/00__)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/00__/followers.svg)](http://qiita.com/00__)
-
-[![Twitter Followers](https://img.shields.io/twitter/follow/00x______?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/00x______)
-
 
 ### Languages
 
